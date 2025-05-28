@@ -1,1 +1,1 @@
-# madlibs
+This Python program is a Mad Libs generator that allows users to create fun, personalized stories by filling in blanks with their own words. The program starts by displaying a menu of story types (e.g., Spending time with best friend, Going to a resort), and the user selects one.
